@@ -4,7 +4,7 @@ metadata:
   name: deficiency-pop-pipeline
   description: Deficiency Pop Parametarized Pipeline in Jenkins
   annotations:
-    jenkins.io/job-full-name: 'Sankalp/Deficiency Pop Parametarized Pipeline'
+    'jenkins.io/job-full-name': Sankalp/Deficiency Pop Parametarized Pipeline
 spec:
   type: service
   lifecycle: experimental
