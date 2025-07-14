@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: deficiency-pop-pipeline
+  description: Deficiency Pop Parametarized Pipeline in Jenkins
+  annotations:
+    jenkins.io/job-full-name: 'Sankalp/Deficiency Pop Parametarized Pipeline'
+spec:
+  type: service
+  lifecycle: experimental
+  owner: sankalp-team
